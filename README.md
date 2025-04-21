@@ -9,4 +9,4 @@ El proyecto procesa datos sobre el Índice de Desarrollo Humano (HDI) y los clas
 # Página Web
 
 Puedes ver el trabajo realizado en la siguiente página web:  
-[Ver página web](https://github.com/ClaudiaPomahuallca/PC2_Claudia?tab=readme-ov-file)
+[Ver página web](https://github.com/ClaudiaPomahuallca/PC2_Claudia)
